@@ -91,7 +91,7 @@ save_model.py:
 ## Here are the Links to the Pretrained Custom YOLOv4 Weights and A Checkpoint for model
 ```
 # YOLOv4 Weights
-https://drive.google.com/u/0/uc?export=download&confirm=cq_h&id=1ezgM65-npWnN9l4Rn1vvW51TUjrSC85U
+https://drive.google.com/file/d/1hfjGVlzlf-pts4__94JmzJxH3M2zkd4a/view?usp=sharing
 ```
 ```
 # Checkpoint by Save_Model.py
