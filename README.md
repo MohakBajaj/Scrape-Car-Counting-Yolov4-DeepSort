@@ -87,3 +87,13 @@ save_model.py:
   --info: print detailed info about tracked objects
     (default: False)
 ```
+
+## Here are the Links to the Pretrained Custom YOLOv4 Weights and A Checkpoint for model
+```
+# YOLOv4 Weights
+https://drive.google.com/u/0/uc?export=download&confirm=cq_h&id=1ezgM65-npWnN9l4Rn1vvW51TUjrSC85U
+```
+```
+# Checkpoint by Save_Model.py
+https://drive.google.com/u/0/uc?export=download&confirm=GQzn&id=1xttdxqHIYex0iwm6jfUUGE4QmNMCAU9o
+```
